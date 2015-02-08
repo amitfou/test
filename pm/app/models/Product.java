@@ -30,10 +30,6 @@ public class Product {
 	public String title;
 	public Pricing pricing;
 
-	public void setTitle(String title) {
-		LOGGER.info("Setting title to " + title);
-		this.title = title;
-	}
 
 	public static List<Integer> getProductIds(Integer productId) {
 		LOGGER.info("Query for all product Ids that starts with: {}" , productId);
