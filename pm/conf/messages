@@ -1,0 +1,9 @@
+product.not.found=Product {0} could not be found.
+product.title.blank=Title cannot be blank.
+product.price.blank=Price cannot be blank.
+product.price.invalid=Invalid Price (Should be a valid number and greater than the cost).
+product.update.success=Product {0} was updated successfully.
+product.id.blank=Must specify a product Id.
+product.id.invalid=Invalid Product Id {0}.
+
+system.db.error=System Failure! Please try again later.
